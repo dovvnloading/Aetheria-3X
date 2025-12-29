@@ -1,0 +1,5 @@
+{
+  "name": "Aetheria VST",
+  "description": "A generative synthesizer with a premium glassmorphic UI, featuring unison, delay, reverb, phase shifting, and intelligent patch mutation.",
+  "requestFramePermissions": []
+}
