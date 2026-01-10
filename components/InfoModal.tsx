@@ -33,7 +33,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ onClose }) => {
            </div>
 
            <div className="flex flex-col gap-3 w-full">
-              <a href="https://dovvnloading.github.io/" target="_blank" rel="noreferrer" className="glass-btn py-3 px-5 rounded-xl flex items-center justify-between group no-underline">
+              <a href="https://matt-wesney.github.io/website/" target="_blank" rel="noreferrer" className="glass-btn py-3 px-5 rounded-xl flex items-center justify-between group no-underline">
                  <div className="flex items-center gap-3">
                     <div className="w-2 h-2 rounded-full bg-blue-400 shadow-[0_0_8px_rgba(96,165,250,0.8)]"></div>
                     <span className="text-sm font-medium text-white/80 group-hover:text-white tracking-wide">Portfolio</span>
